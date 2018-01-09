@@ -17,3 +17,9 @@ for (n; n > 0; n--){
 }
 return 'done';
 }
+function doWhileLoop(array) {
+  function maybeTrue() {
+    return Math.random() >= 0.5
+  }
+  
+}
